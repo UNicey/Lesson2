@@ -21,6 +21,7 @@ public class Main {
 
         }
         System.out.println(sum(15, 20));
+        System.out.println(sum(15, 20));
     }
 
     public static void  print(){
